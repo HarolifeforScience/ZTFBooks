@@ -1,9 +1,5 @@
-# Deep-Learning & Machine Learning
-<li> 
-<ul> PCA , K-Means & Tree Algorithm </ul>
-<ul>Feature Engineering</ul> 
-<ul>Anomalie-Erkennung</ul> 
-<ul>CNNs [Tensorflow] </ul> 
-<ul>RNNs [Tensorflow] </ul> 
-<ul>Pytorch</ul>
-</li>
+# LLM Zur Übersetzung der Zacharias-Tanee-Fomum Bücher 
+<p1> Englisch zu Französich </p1>
+<p2> Englisch zu Deutsch </p1>
+<p1> Französich zu Deutsch </p1>
+<p1> Französich zu Englisch </p1>
